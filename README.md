@@ -62,6 +62,8 @@ Run the script using:
 
 ```python calculator.py```
 
+To **download** click here: **[Download](https://github.com/Migq1203r/calculator/archive/refs/heads/main.zip)**
+
 ## 📄 Example Usage
 ```
 What's first number? 10
